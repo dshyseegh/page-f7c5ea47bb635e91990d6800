@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "92d5a7d97e3b02890962a611",
+  "owner": "dshyseegh",
+  "repo": "page-f7c5ea47bb635e91990d6800",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f7c5ea47bb635e91990d6800",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "be62e6400685c024bac624b7181ea281e85e945f017da0e401a3a1a45c30861d",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬 VPN 加速器提供专业的高速网络加速服务，涵盖基础版、旗舰版和团队版套餐。支持多设备在线，解锁流媒体内容，官网提供客户端下载及订阅服务。",
+          "AI_DESCRIPTION": "快柠檬 VPN 加速器提供专业的高速网络加速服务，涵盖基础版、旗舰版和团队版套餐。支持多设备在线，解锁流媒体内容，官网提供客户端下载及订阅服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background-color: #f8f9fa;\n            color: #333;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #6B46C1;\n            font-size: 2.5rem;\n            text-align: center;\n            margin-bottom: 20px;\n        }\n        h2 {\n            color: #6B46C1;\n            font-size: 1.8rem;\n            border-bottom: 2px solid #e0e0e0;\n            padding-bottom: 10px;\n            margin-top: 40px;\n        }\n        .intro, .scenarios, .instructions {\n            background-color: #ffffff;\n            padding: 30px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n            margin-bottom: 30px;\n        }\n        .plans-section {\n            background-color: #ffffff;\n            padding: 30px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n            margin-bottom: 30px;\n        }\n        .faq-section {\n            background-color: #ffffff;\n            padding: 30px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n            margin-bottom: 30px;\n        }\n        details {\n            margin-bottom: 15px;\n            border: 1px solid #e0e0e0;\n            border-radius: 6px;\n            padding: 10px;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: #6B46C1;\n        }\n        .client-logos {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 20px;\n            justify-content: center;\n        }\n        .client-logos div {\n            background: #6B46C1;\n            color: white;\n            padding: 10px 20px;\n            border-radius: 4px;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2rem; }\n            .intro, .scenarios, .instructions, .plans-section, .faq-section {\n                padding: 20px;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>快柠檬</h1>\n        <section class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>快柠檬是一款专注于提供高速稳定VPN加速服务的品牌，致力于帮助用户畅享全球网络资源，保护隐私，解锁更多内容。</p>\n        </section>\n        <section class=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>快柠檬适用于以下场景：科学上网、流媒体解锁、游戏加速优化、企业远程办公，以及保护网络隐私和数据安全。</p>\n        </section>\n        <section class=\"instructions\">\n            <h2>操作说明</h2>\n            <p>1. 访问快柠檬官网进行套餐选择；<br>2. 选择适合的套餐并完成支付；<br>3. 下载官方客户端安装；<br>4. 登录后连接优质节点即可加速网络。</p>\n        </section>\n        <section class=\"plans-section\">\n            {{PLANS_HTML}}\n        </section>\n        <section class=\"faq-section\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>快柠檬如何订阅？</summary>\n                <p>您可以通过官网选择套餐进行在线支付订阅，即可立即使用。</p>\n            </details>\n            <details>\n                <summary>快柠檬支持哪些设备？</summary>\n                <p>支持多种操作系统，设备数量根据套餐而定。</p>\n            </details>\n            <details>\n                <summary>快柠檬的流量标准如何？</summary>\n                <p>根据选择的套餐提供不同流量额度。</p>\n            </details>\n            <details>\n                <summary>如何下载快柠檬客户端？</summary>\n                <p>直接访问官网下载页面，获取适用于您的操作系统的最新版本客户端。</p>\n            </details>\n            <details>\n                <summary>快柠檬有客服支持吗？</summary>\n                <p>不同套餐提供不同的支持级别。</p>\n            </details>\n        </section>\n        <section>\n            <h2>合作伙伴</h2>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n\n",
+          "hash": "66b32f3ca70cd5c8d03790651964d64d55506b3c1d1e8e589a9b4c3e33e6f6c3",
+          "seo": {
+            "title": "快柠檬 VPN 加速器 | 官网下载 机场订阅",
+            "keywords": "快柠檬, VPN加速器, 机场, 客户端下载, 官网, 加速服务",
+            "description": "快柠檬 VPN 加速器提供专业的高速网络加速服务，涵盖基础版、旗舰版和团队版套餐。支持多设备在线，解锁流媒体内容，官网提供客户端下载及订阅服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmndpg.cn",
+    "host": "home.tmndpg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "tmndpg.cn",
+      "url": "https://tmndpg.cn/",
+      "label": "少数派",
+      "apex": "tmndpg.cn",
+      "kind": null,
+      "identity": "feaucgxrkrt/page-e0d747bcff009e5d79254dbb"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "088705ed419b122e915f3ca41939152a1721c6a365a867df693ebd65d9d903f7",
+    "sitemap.xml": "d208dc7208ae887dc499f4f63b5729c4680df80889ea534da1ca24e390f66b7b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9c05066c317c615f88e310dd988db41a6e278da42838d5d2a07c1eaacce8b64b",
+    "robots.txt": "82dee1a4d68e548d51f64214488f110cb507404979d8be14a738b386f25c3996",
+    "065b0fc0e98d0ac996b620116920aa06.txt": "444e1a90e0d35c46666be6638e86c278b5563562946cc74c4252e6f7e0d24efc"
+  },
+  "revision": "d2e32ce5df89752d58a6099d14fa211147cbacbdd00855d90e7fb156c0076400"
+}
